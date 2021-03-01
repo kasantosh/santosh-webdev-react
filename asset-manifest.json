@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/santosh-webdev-react/static/js/main.39638b13.chunk.js",
+    "main.js.map": "/santosh-webdev-react/static/js/main.39638b13.chunk.js.map",
+    "runtime-main.js": "/santosh-webdev-react/static/js/runtime-main.e08192c8.js",
+    "runtime-main.js.map": "/santosh-webdev-react/static/js/runtime-main.e08192c8.js.map",
+    "static/js/2.9537188c.chunk.js": "/santosh-webdev-react/static/js/2.9537188c.chunk.js",
+    "static/js/2.9537188c.chunk.js.map": "/santosh-webdev-react/static/js/2.9537188c.chunk.js.map",
+    "index.html": "/santosh-webdev-react/index.html",
+    "static/js/2.9537188c.chunk.js.LICENSE.txt": "/santosh-webdev-react/static/js/2.9537188c.chunk.js.LICENSE.txt",
+    "static/media/main.4fe820e6.jpeg": "/santosh-webdev-react/static/media/main.4fe820e6.jpeg",
+    "static/media/main.d48e2181.mp4": "/santosh-webdev-react/static/media/main.d48e2181.mp4",
+    "static/media/pencil-about.d4a17358.png": "/santosh-webdev-react/static/media/pencil-about.d4a17358.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e08192c8.js",
+    "static/js/2.9537188c.chunk.js",
+    "static/js/main.39638b13.chunk.js"
+  ]
+}
